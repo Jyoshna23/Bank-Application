@@ -39,5 +39,7 @@ public class Main {
         // calculate interest
         System.out.println("Interest calculated for " + user.getBalance() + " is " + user.calculateInterest(10));
 
+
+        System.out.println("Made a change in code");
     }
 }
