@@ -33,9 +33,6 @@ public class Main {
         System.out.println(money +" " + user.withdrawMoney(money,pass));
 
 
-
-
-
         // calculate interest
         System.out.println("Interest calculated for " + user.getBalance() + " is " + user.calculateInterest(10));
 
